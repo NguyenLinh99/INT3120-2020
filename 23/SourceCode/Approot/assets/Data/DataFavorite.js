@@ -1,2 +1,0 @@
-var listWordFavorite = [];
-export { listWordFavorite }
